@@ -10,9 +10,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br>
   <br>
+<h4>Imagem do projeto:</h4>
 <img src="https://raw.githubusercontent.com/Brucaraujo777/Projeto2-Wide-Coverage/ceaa8a2f44d1f114c65cc93a28b6ea818149b5ab/img/Captura%20de%20tela%202023-05-09%20164515.png">
   <br>
   <br>
-<h4>Imagem do projeto:</h4>
  <img src="https://raw.githubusercontent.com/Brucaraujo777/Projeto2-Wide-Coverage/73169ee6ffb528c65da4e5af848ef9a7b2dee4a9/img/Captura%20de%20tela%202023-05-10%20102219.png">
   
